@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me....saravanakumargovin@gmail.com
+- 📫 How to reach me ...saravanakumargovin@gmail.com
 
 <!---
 Saravanakumargovin/Saravanakumargovin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

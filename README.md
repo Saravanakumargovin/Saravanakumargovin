@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saravanakumargovin
+- 👋 Hi, I’m Saravanakumar G
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
